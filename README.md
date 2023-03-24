@@ -18,11 +18,11 @@ Este tutorial cubrirá los conceptos básicos de bucles en JavaScript, incluyend
 
 ## Tabla de Contenidos
 
--   [Introducción a los bucles]
--   [Bucle For]
--   [Bucle While]
--   [Bucle Do-While]
--   [Conclusión]
+-   Introducción a los bucles
+-   Bucle For
+-   Bucle While
+-   Bucle Do-While
+-   Conclusión
 
 ## Introducción a los bucles
 
