@@ -18,11 +18,11 @@ Este tutorial cubrirá los conceptos básicos de bucles en JavaScript, incluyend
 
 ## Tabla de Contenidos
 
--   [Introducción a los bucles](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#introducci%C3%B3n-a-los-bucles)
--   [Bucle For](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#bucle-for)
--   [Bucle While](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#bucle-while)
--   [Bucle Do-While](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#bucle-do-while)
--   [Conclusión](https://chat.openai.com/chat/94fae4b3-129e-437e-9de0-a5b1e3e4010e#conclusi%C3%B3n)
+-   [Introducción a los bucles]
+-   [Bucle For]
+-   [Bucle While]
+-   [Bucle Do-While]
+-   [Conclusión]
 
 ## Introducción a los bucles
 
