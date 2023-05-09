@@ -1,16 +1,16 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%281%29.jpg)
+![Tutorial de bucles en Javascript Imagen 1](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%281%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%282%29.jpg)
+![Tutorial de bucles en Javascript Imagen 2](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%282%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%283%29.jpg)
+![Tutorial de bucles en Javascript Imagen 3](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%283%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%284%29.jpg)
+![Tutorial de bucles en Javascript Imagen 4](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%284%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%285%29.jpg)
+![Tutorial de bucles en Javascript Imagen 5](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%285%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%286%29.jpg)
+![Tutorial de bucles en Javascript Imagen 6](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%286%29.jpg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%287%29.jpg)
+![Tutorial de bucles en Javascript Imagen 7](https://raw.githubusercontent.com/sergiecode/loops-tutorial/master/loops-tutorial%20%287%29.jpg)
 
 # Tutorial de Bucles en JavaScript
 
